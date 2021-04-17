@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hallo sahabat!
+
+saya baru saja belajar dengan GitHub
+
